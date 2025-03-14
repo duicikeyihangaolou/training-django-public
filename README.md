@@ -2,7 +2,7 @@
 
 2018/06，基于Django 1.11.21 TLS
 
-- 原始版本 Github：<https://github.com/wu-wenxiang/Training-Django-Public>
+- 原始版本 Github：<https://github.com/duicikeyihangaolou/training-django-public>
 - 同步到 Gitee：<https://gitee.com/wu-wen-xiang/training-django>
 
 ## OverView
@@ -29,8 +29,7 @@
 
 ## Others
 
-- Demo: Project-DjangoTest，[Github](https://github.com/wu-wenxiang/ZZLARGE-Project-DjangoTest/) 或 [Gitee](https://gitee.com/wu-wen-xiang/project-django-demo/)
-- Deployment: Fabric，[Github](https://github.com/wu-wenxiang/Project-Python-Webdev/tree/master/u1604-fabric) 或 [Gitee](https://gitee.com/wu-wen-xiang/project-python-webdev-demo/tree/master/u1604-fabric)
+- Demo: project-django-demo[Github](https://github.com/duicikeyihangaolou/project-django-demo/) 或 [Gitee](https://gitee.com/wu-wen-xiang/project-django-demo/)
+- Deployment: Fabric，[Github](https://github.com/duicikeyihangaolou/project-python-webdev-demo/tree/master/u1604-fabric) 或 [Gitee](https://gitee.com/wu-wen-xiang/project-python-webdev-demo/tree/master/u1604-fabric)
 - [django-rest-framework](http://www.django-rest-framework.org/tutorial/quickstart/), [reference](https://github.com/twtrubiks/django-rest-framework-tutorial)
 - [django-tutorial](https://github.com/twtrubiks/django-tutorial)
-
